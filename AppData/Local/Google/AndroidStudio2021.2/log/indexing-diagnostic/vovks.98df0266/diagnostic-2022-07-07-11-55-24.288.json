@@ -1,0 +1,484 @@
+{
+  "appInfo" : {
+    "build" : "212.5712.43.2112.8609683",
+    "buildDate" : "2022-05-18T16:50:00.418Z[UTC]",
+    "productCode" : "AI",
+    "generated" : "2022-07-07T09:55:24.2888511Z",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o 11.0.12 11.0.12+7-b1504.28-7817840"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 1342177280,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "Weather_kotlin_app",
+    "times" : {
+      "indexingReason" : "Project roots have changed",
+      "totalUpdatingTime" : 2569928300,
+      "indexingTime" : 56675600,
+      "contentLoadingTime" : 2526000,
+      "scanFilesTime" : 1539129500,
+      "pushPropertiesTime" : 932853300,
+      "indexExtensionsTime" : 0,
+      "updatingStart" : "2022-07-07T09:55:21.7186145Z",
+      "updatingEnd" : "2022-07-07T09:55:24.2888511Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 8,
+      "numberOfScannedFiles" : 197098,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 39,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 39
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "CLASS",
+      "partOfTotalProcessingTime" : {
+        "part" : 140546900,
+        "total" : 212845700
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 902700,
+        "total" : 9481900
+      },
+      "totalNumberOfFiles" : 6,
+      "totalFilesSize" : 14643,
+      "indexingSpeed" : {
+        "totalBytes" : 14643,
+        "totalTime" : 140546900
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Weather_kotlin_app'",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : 14643,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 140546900,
+          "total" : 140546900
+        }
+      } ]
+    }, {
+      "fileType" : "textmate",
+      "partOfTotalProcessingTime" : {
+        "part" : 36148700,
+        "total" : 212845700
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 2271200,
+        "total" : 9481900
+      },
+      "totalNumberOfFiles" : 5,
+      "totalFilesSize" : 285725,
+      "indexingSpeed" : {
+        "totalBytes" : 285725,
+        "totalTime" : 36148700
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Weather_kotlin_app'",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : 285725,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 36148700,
+          "total" : 36148700
+        }
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 19205100,
+        "total" : 212845700
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 2353000,
+        "total" : 9481900
+      },
+      "totalNumberOfFiles" : 12,
+      "totalFilesSize" : 12810,
+      "indexingSpeed" : {
+        "totalBytes" : 12810,
+        "totalTime" : 19205100
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Weather_kotlin_app'",
+        "numberOfFiles" : 12,
+        "totalFilesSize" : 12810,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 19205100,
+          "total" : 19205100
+        }
+      } ]
+    }, {
+      "fileType" : "Properties",
+      "partOfTotalProcessingTime" : {
+        "part" : 9865800,
+        "total" : 212845700
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 3036500,
+        "total" : 9481900
+      },
+      "totalNumberOfFiles" : 6,
+      "totalFilesSize" : 160,
+      "indexingSpeed" : {
+        "totalBytes" : 160,
+        "totalTime" : 9865800
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Weather_kotlin_app'",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : 160,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 9865800,
+          "total" : 9865800
+        }
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 5195800,
+        "total" : 212845700
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 560400,
+        "total" : 9481900
+      },
+      "totalNumberOfFiles" : 4,
+      "totalFilesSize" : 25504,
+      "indexingSpeed" : {
+        "totalBytes" : 25504,
+        "totalTime" : 5195800
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Weather_kotlin_app'",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : 25504,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 5195800,
+          "total" : 5195800
+        }
+      } ]
+    }, {
+      "fileType" : "JAVA",
+      "partOfTotalProcessingTime" : {
+        "part" : 1177300,
+        "total" : 212845700
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 201800,
+        "total" : 9481900
+      },
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : 1508,
+      "indexingSpeed" : {
+        "totalBytes" : 1508,
+        "totalTime" : 1177300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Weather_kotlin_app'",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : 1508,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1177300,
+          "total" : 1177300
+        }
+      } ]
+    }, {
+      "fileType" : "Shrinker Config File",
+      "partOfTotalProcessingTime" : {
+        "part" : 253900,
+        "total" : 212845700
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 55100,
+        "total" : 9481900
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 750,
+      "indexingSpeed" : {
+        "totalBytes" : 750,
+        "totalTime" : 253900
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Weather_kotlin_app'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 750,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 253900,
+          "total" : 253900
+        }
+      } ]
+    }, {
+      "fileType" : "Groovy",
+      "partOfTotalProcessingTime" : {
+        "part" : 238900,
+        "total" : 212845700
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 46900,
+        "total" : 9481900
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 1030,
+      "indexingSpeed" : {
+        "totalBytes" : 1030,
+        "totalTime" : 238900
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Weather_kotlin_app'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 1030,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 238900,
+          "total" : 238900
+        }
+      } ]
+    }, {
+      "fileType" : "GitIgnore file",
+      "partOfTotalProcessingTime" : {
+        "part" : 213300,
+        "total" : 212845700
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 54300,
+        "total" : 9481900
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 6,
+      "indexingSpeed" : {
+        "totalBytes" : 6,
+        "totalTime" : 213300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Weather_kotlin_app'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 6,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 213300,
+          "total" : 213300
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 82617500,
+        "total" : 153567000
+      },
+      "totalNumberOfFiles" : 9,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 14707,
+      "indexingSpeed" : {
+        "totalBytes" : 14707,
+        "totalTime" : 82617500
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 36234700,
+        "total" : 153567000
+      },
+      "totalNumberOfFiles" : 6,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 14643,
+      "indexingSpeed" : {
+        "totalBytes" : 14643,
+        "totalTime" : 36234700
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 16724100,
+        "total" : 153567000
+      },
+      "totalNumberOfFiles" : 15,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 311389,
+      "indexingSpeed" : {
+        "totalBytes" : 311389,
+        "totalTime" : 16724100
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 5391000,
+        "total" : 153567000
+      },
+      "totalNumberOfFiles" : 6,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 14643,
+      "indexingSpeed" : {
+        "totalBytes" : 14643,
+        "totalTime" : 5391000
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "bytecodeAnalysis",
+      "partOfTotalIndexingTime" : {
+        "part" : 5368100,
+        "total" : 153567000
+      },
+      "totalNumberOfFiles" : 6,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 14643,
+      "indexingSpeed" : {
+        "totalBytes" : 14643,
+        "totalTime" : 5368100
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 4021300,
+        "total" : 153567000
+      },
+      "totalNumberOfFiles" : 5,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 176579,
+      "indexingSpeed" : {
+        "totalBytes" : 176579,
+        "totalTime" : 4021300
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 3210300,
+        "total" : 153567000
+      },
+      "totalNumberOfFiles" : 5,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 176579,
+      "indexingSpeed" : {
+        "totalBytes" : 176579,
+        "totalTime" : 3210300
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "Module 'Weather_kotlin_app'",
+      "numberOfScannedFiles" : 162807,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 39,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 520135200,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 13876400,
+      "timeIndexingWithoutContent" : 69700
+    }, {
+      "providerName" : "Indexable set contributor 'Kotlin Script dependencies' (project)",
+      "numberOfScannedFiles" : 19234,
+      "numberOfSkippedFiles" : 33,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 151466700,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "JDK Android Studio default JDK",
+      "numberOfScannedFiles" : 14842,
+      "numberOfSkippedFiles" : 30,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 114305800,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@857e3b4' (non-project)",
+      "numberOfScannedFiles" : 214,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 2434300,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (non-project)",
+      "numberOfScannedFiles" : 1,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 278700,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@857e3b4' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'Kotlin Script dependencies' (non-project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'Weather_kotlin_app'",
+      "totalNumberOfIndexedFiles" : 39,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : 56702600,
+      "contentLoadingTime" : 2526000,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ]
+    } ]
+  }
+}

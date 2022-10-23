@@ -1,0 +1,607 @@
+{
+  "appInfo" : {
+    "build" : "212.5712.43.2112.8609683",
+    "buildDate" : "2022-05-18T16:50:25.716Z[UTC]",
+    "productCode" : "AI",
+    "generated" : "2022-07-07T10:13:11.387259Z",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o 11.0.12 11.0.12+7-b1504.28-7817840"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 1342177280,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "My weathet Kotlin App",
+    "times" : {
+      "indexingReason" : "Project roots have changed",
+      "totalUpdatingTime" : 6844487500,
+      "indexingTime" : 1593823900,
+      "contentLoadingTime" : 162407382,
+      "scanFilesTime" : 3546851800,
+      "pushPropertiesTime" : 1241941400,
+      "indexExtensionsTime" : 0,
+      "updatingStart" : "2022-07-07T10:13:04.544901Z",
+      "updatingEnd" : "2022-07-07T10:13:11.387259Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 8,
+      "numberOfScannedFiles" : 197115,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 1277,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 1277
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "textmate",
+      "partOfTotalProcessingTime" : {
+        "part" : 3342846900,
+        "total" : 5829362500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 27292300,
+        "total" : 601351400
+      },
+      "totalNumberOfFiles" : 12,
+      "totalFilesSize" : 6347512,
+      "indexingSpeed" : {
+        "totalBytes" : 6347512,
+        "totalTime" : 3342846900
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'My weathet Kotlin App'",
+        "numberOfFiles" : 12,
+        "totalFilesSize" : 6347512,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 3342846900,
+          "total" : 3342846900
+        }
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 1962577100,
+        "total" : 5829362500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 569506100,
+        "total" : 601351400
+      },
+      "totalNumberOfFiles" : 1247,
+      "totalFilesSize" : 3108699,
+      "indexingSpeed" : {
+        "totalBytes" : 3108699,
+        "totalTime" : 1962577100
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'My weathet Kotlin App'",
+        "numberOfFiles" : 1247,
+        "totalFilesSize" : 3108699,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1962577100,
+          "total" : 1962577100
+        }
+      } ]
+    }, {
+      "fileType" : "Kotlin",
+      "partOfTotalProcessingTime" : {
+        "part" : 300779600,
+        "total" : 5829362500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 292900,
+        "total" : 601351400
+      },
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : 1352,
+      "indexingSpeed" : {
+        "totalBytes" : 1352,
+        "totalTime" : 300779600
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'My weathet Kotlin App'",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : 1352,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 300779600,
+          "total" : 300779600
+        }
+      } ]
+    }, {
+      "fileType" : "HTML",
+      "partOfTotalProcessingTime" : {
+        "part" : 107390500,
+        "total" : 5829362500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1156900,
+        "total" : 601351400
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 22622,
+      "indexingSpeed" : {
+        "totalBytes" : 22622,
+        "totalTime" : 107390500
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'My weathet Kotlin App'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 22622,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 107390500,
+          "total" : 107390500
+        }
+      } ]
+    }, {
+      "fileType" : "Groovy",
+      "partOfTotalProcessingTime" : {
+        "part" : 41998500,
+        "total" : 5829362500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 97000,
+        "total" : 601351400
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 1603,
+      "indexingSpeed" : {
+        "totalBytes" : 1603,
+        "totalTime" : 41998500
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'My weathet Kotlin App'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 1603,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 41998500,
+          "total" : 41998500
+        }
+      } ]
+    }, {
+      "fileType" : "JSON",
+      "partOfTotalProcessingTime" : {
+        "part" : 39956700,
+        "total" : 5829362500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 277500,
+        "total" : 601351400
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 11915,
+      "indexingSpeed" : {
+        "totalBytes" : 11915,
+        "totalTime" : 39956700
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'My weathet Kotlin App'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 11915,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 39956700,
+          "total" : 39956700
+        }
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 29062600,
+        "total" : 5829362500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1694400,
+        "total" : 601351400
+      },
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : 86014,
+      "indexingSpeed" : {
+        "totalBytes" : 86014,
+        "totalTime" : 29062600
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'My weathet Kotlin App'",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : 86014,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 29062600,
+          "total" : 29062600
+        }
+      } ]
+    }, {
+      "fileType" : "Properties",
+      "partOfTotalProcessingTime" : {
+        "part" : 2936400,
+        "total" : 5829362500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 727600,
+        "total" : 601351400
+      },
+      "totalNumberOfFiles" : 4,
+      "totalFilesSize" : 128,
+      "indexingSpeed" : {
+        "totalBytes" : 128,
+        "totalTime" : 2936400
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'My weathet Kotlin App'",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : 128,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 2936400,
+          "total" : 2936400
+        }
+      } ]
+    }, {
+      "fileType" : "JAVA",
+      "partOfTotalProcessingTime" : {
+        "part" : 1814200,
+        "total" : 5829362500
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 306700,
+        "total" : 601351400
+      },
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : 1508,
+      "indexingSpeed" : {
+        "totalBytes" : 1508,
+        "totalTime" : 1814200
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'My weathet Kotlin App'",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : 1508,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1814200,
+          "total" : 1814200
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 2781952200,
+        "total" : 3469256100
+      },
+      "totalNumberOfFiles" : 1274,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 9579845,
+      "indexingSpeed" : {
+        "totalBytes" : 9579845,
+        "totalTime" : 2781952200
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 283094400,
+        "total" : 3469256100
+      },
+      "totalNumberOfFiles" : 28,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 6491771,
+      "indexingSpeed" : {
+        "totalBytes" : 6491771,
+        "totalTime" : 283094400
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 220946200,
+        "total" : 3469256100
+      },
+      "totalNumberOfFiles" : 15,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 47838,
+      "indexingSpeed" : {
+        "totalBytes" : 47838,
+        "totalTime" : 220946200
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 115244400,
+        "total" : 3469256100
+      },
+      "totalNumberOfFiles" : 28,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 6491771,
+      "indexingSpeed" : {
+        "totalBytes" : 6491771,
+        "totalTime" : 115244400
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "html5.custom.attributes.index",
+      "partOfTotalIndexingTime" : {
+        "part" : 56603600,
+        "total" : 3469256100
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 22622,
+      "indexingSpeed" : {
+        "totalBytes" : 22622,
+        "totalTime" : 56603600
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+      "partOfTotalIndexingTime" : {
+        "part" : 5254500,
+        "total" : 3469256100
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1013,
+      "indexingSpeed" : {
+        "totalBytes" : 1013,
+        "totalTime" : 5254500
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "fileIncludes",
+      "partOfTotalIndexingTime" : {
+        "part" : 2211700,
+        "total" : 3469256100
+      },
+      "totalNumberOfFiles" : 5,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 20753,
+      "indexingSpeed" : {
+        "totalBytes" : 20753,
+        "totalTime" : 2211700
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "FrameworkDetectionIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 1382300,
+        "total" : 3469256100
+      },
+      "totalNumberOfFiles" : 5,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 20753,
+      "indexingSpeed" : {
+        "totalBytes" : 20753,
+        "totalTime" : 1382300
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "json.file.root.values",
+      "partOfTotalIndexingTime" : {
+        "part" : 1071800,
+        "total" : 3469256100
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 11915,
+      "indexingSpeed" : {
+        "totalBytes" : 11915,
+        "totalTime" : 1071800
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 749800,
+        "total" : 3469256100
+      },
+      "totalNumberOfFiles" : 5,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 20753,
+      "indexingSpeed" : {
+        "totalBytes" : 20753,
+        "totalTime" : 749800
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "xmlProperties",
+      "partOfTotalIndexingTime" : {
+        "part" : 281700,
+        "total" : 3469256100
+      },
+      "totalNumberOfFiles" : 5,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 20753,
+      "indexingSpeed" : {
+        "totalBytes" : 20753,
+        "totalTime" : 281700
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "RelaxSymbolIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 238800,
+        "total" : 3469256100
+      },
+      "totalNumberOfFiles" : 5,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 20753,
+      "indexingSpeed" : {
+        "totalBytes" : 20753,
+        "totalTime" : 238800
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinPackageSourcesMemberNamesIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 224700,
+        "total" : 3469256100
+      },
+      "totalNumberOfFiles" : 3,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1352,
+      "indexingSpeed" : {
+        "totalBytes" : 1352,
+        "totalTime" : 224700
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "Module 'My weathet Kotlin App'",
+      "numberOfScannedFiles" : 162824,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 1277,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 1943258900,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 120704900,
+      "timeIndexingWithoutContent" : 343900
+    }, {
+      "providerName" : "Indexable set contributor 'Kotlin Script dependencies' (project)",
+      "numberOfScannedFiles" : 19067,
+      "numberOfSkippedFiles" : 38,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 765422100,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 34930600,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "JDK Android Studio default JDK",
+      "numberOfScannedFiles" : 15009,
+      "numberOfSkippedFiles" : 25,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 639580100,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 30747600,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@470b3390' (non-project)",
+      "numberOfScannedFiles" : 214,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 747700,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (non-project)",
+      "numberOfScannedFiles" : 1,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 3400,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@470b3390' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'Kotlin Script dependencies' (non-project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'My weathet Kotlin App'",
+      "totalNumberOfIndexedFiles" : 1277,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : 1574339900,
+      "contentLoadingTime" : 162407382,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ {
+        "fileName" : "000003.log",
+        "processingTime" : 785986500,
+        "indexingTime" : 720809500,
+        "contentLoadingTime" : 2536600
+      }, {
+        "fileName" : "000577.log",
+        "processingTime" : 1288104700,
+        "indexingTime" : 1140723600,
+        "contentLoadingTime" : 9422000
+      }, {
+        "fileName" : "000178.log",
+        "processingTime" : 912485000,
+        "indexingTime" : 796510300,
+        "contentLoadingTime" : 8220400
+      } ]
+    } ]
+  }
+}

@@ -1,0 +1,542 @@
+{
+  "appInfo" : {
+    "build" : "212.5712.43.2112.8609683",
+    "buildDate" : "2022-05-18T16:50:04.459Z[UTC]",
+    "productCode" : "AI",
+    "generated" : "2022-07-07T09:31:55.8283434Z",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o 11.0.12 11.0.12+7-b1504.28-7817840"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 1342177280,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "Mi Wether App223",
+    "times" : {
+      "indexingReason" : "Project roots have changed",
+      "totalUpdatingTime" : 3403410699,
+      "indexingTime" : 1227188300,
+      "contentLoadingTime" : 157548972,
+      "scanFilesTime" : 1368722600,
+      "pushPropertiesTime" : 661925700,
+      "indexExtensionsTime" : 0,
+      "updatingStart" : "2022-07-07T09:31:52.4245835Z",
+      "updatingEnd" : "2022-07-07T09:31:55.8278442Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 8,
+      "numberOfScannedFiles" : 197202,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 1950,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 1950
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 2267943095,
+        "total" : 4364912170
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 416287283,
+        "total" : 560501875
+      },
+      "totalNumberOfFiles" : 974,
+      "totalFilesSize" : 5811720,
+      "indexingSpeed" : {
+        "totalBytes" : 5811720,
+        "totalTime" : 2267943095
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Mi Wether App223'",
+        "numberOfFiles" : 974,
+        "totalFilesSize" : 5811720,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 2267943095,
+          "total" : 2267943095
+        }
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 907390073,
+        "total" : 4364912170
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 90263888,
+        "total" : 560501875
+      },
+      "totalNumberOfFiles" : 782,
+      "totalFilesSize" : 2308374,
+      "indexingSpeed" : {
+        "totalBytes" : 2308374,
+        "totalTime" : 907390073
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Mi Wether App223'",
+        "numberOfFiles" : 782,
+        "totalFilesSize" : 2308374,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 907390073,
+          "total" : 907390073
+        }
+      } ]
+    }, {
+      "fileType" : "textmate",
+      "partOfTotalProcessingTime" : {
+        "part" : 679735601,
+        "total" : 4364912170
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 13178101,
+        "total" : 560501875
+      },
+      "totalNumberOfFiles" : 5,
+      "totalFilesSize" : 3038321,
+      "indexingSpeed" : {
+        "totalBytes" : 3038321,
+        "totalTime" : 679735601
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Mi Wether App223'",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : 3038321,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 679735601,
+          "total" : 679735601
+        }
+      } ]
+    }, {
+      "fileType" : "JSON",
+      "partOfTotalProcessingTime" : {
+        "part" : 443914903,
+        "total" : 4364912170
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 31982404,
+        "total" : 560501875
+      },
+      "totalNumberOfFiles" : 127,
+      "totalFilesSize" : 1362189,
+      "indexingSpeed" : {
+        "totalBytes" : 1362189,
+        "totalTime" : 443914903
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Mi Wether App223'",
+        "numberOfFiles" : 127,
+        "totalFilesSize" : 1362189,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 443914903,
+          "total" : 443914903
+        }
+      } ]
+    }, {
+      "fileType" : "CLASS",
+      "partOfTotalProcessingTime" : {
+        "part" : 34870003,
+        "total" : 4364912170
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 3551400,
+        "total" : 560501875
+      },
+      "totalNumberOfFiles" : 29,
+      "totalFilesSize" : 82050,
+      "indexingSpeed" : {
+        "totalBytes" : 82050,
+        "totalTime" : 34870003
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Mi Wether App223'",
+        "numberOfFiles" : 29,
+        "totalFilesSize" : 82050,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 34870003,
+          "total" : 34870003
+        }
+      } ]
+    }, {
+      "fileType" : "Properties",
+      "partOfTotalProcessingTime" : {
+        "part" : 28769595,
+        "total" : 4364912170
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 4915899,
+        "total" : 560501875
+      },
+      "totalNumberOfFiles" : 29,
+      "totalFilesSize" : 7286,
+      "indexingSpeed" : {
+        "totalBytes" : 7286,
+        "totalTime" : 28769595
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Mi Wether App223'",
+        "numberOfFiles" : 29,
+        "totalFilesSize" : 7286,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 28769595,
+          "total" : 28769595
+        }
+      } ]
+    }, {
+      "fileType" : "AIDL",
+      "partOfTotalProcessingTime" : {
+        "part" : 2288900,
+        "total" : 4364912170
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 322900,
+        "total" : 560501875
+      },
+      "totalNumberOfFiles" : 4,
+      "totalFilesSize" : 1474,
+      "indexingSpeed" : {
+        "totalBytes" : 1474,
+        "totalTime" : 2288900
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Mi Wether App223'",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : 1474,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 2288900,
+          "total" : 2288900
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 1240443463,
+        "total" : 1591887680
+      },
+      "totalNumberOfFiles" : 1921,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 12529364,
+      "indexingSpeed" : {
+        "totalBytes" : 12529364,
+        "totalTime" : 1240443463
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 111103811,
+        "total" : 1591887680
+      },
+      "totalNumberOfFiles" : 584,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 6408031,
+      "indexingSpeed" : {
+        "totalBytes" : 6408031,
+        "totalTime" : 111103811
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 106920005,
+        "total" : 1591887680
+      },
+      "totalNumberOfFiles" : 584,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 6408031,
+      "indexingSpeed" : {
+        "totalBytes" : 6408031,
+        "totalTime" : 106920005
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 57517099,
+        "total" : 1591887680
+      },
+      "totalNumberOfFiles" : 169,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 3619863,
+      "indexingSpeed" : {
+        "totalBytes" : 3619863,
+        "totalTime" : 57517099
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "fileIncludes",
+      "partOfTotalIndexingTime" : {
+        "part" : 21174297,
+        "total" : 1591887680
+      },
+      "totalNumberOfFiles" : 129,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 3531438,
+      "indexingSpeed" : {
+        "totalBytes" : 3531438,
+        "totalTime" : 21174297
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "json.file.root.values",
+      "partOfTotalIndexingTime" : {
+        "part" : 20040295,
+        "total" : 1591887680
+      },
+      "totalNumberOfFiles" : 125,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1361423,
+      "indexingSpeed" : {
+        "totalBytes" : 1361423,
+        "totalTime" : 20040295
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "RelaxSymbolIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 10027003,
+        "total" : 1591887680
+      },
+      "totalNumberOfFiles" : 129,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 3531438,
+      "indexingSpeed" : {
+        "totalBytes" : 3531438,
+        "totalTime" : 10027003
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "xmlProperties",
+      "partOfTotalIndexingTime" : {
+        "part" : 9857400,
+        "total" : 1591887680
+      },
+      "totalNumberOfFiles" : 129,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 3531438,
+      "indexingSpeed" : {
+        "totalBytes" : 3531438,
+        "totalTime" : 9857400
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 8830606,
+        "total" : 1591887680
+      },
+      "totalNumberOfFiles" : 129,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 3531438,
+      "indexingSpeed" : {
+        "totalBytes" : 3531438,
+        "totalTime" : 8830606
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "bytecodeAnalysis",
+      "partOfTotalIndexingTime" : {
+        "part" : 2081199,
+        "total" : 1591887680
+      },
+      "totalNumberOfFiles" : 29,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 82050,
+      "indexingSpeed" : {
+        "totalBytes" : 82050,
+        "totalTime" : 2081199
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 1729403,
+        "total" : 1591887680
+      },
+      "totalNumberOfFiles" : 29,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 82050,
+      "indexingSpeed" : {
+        "totalBytes" : 82050,
+        "totalTime" : 1729403
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "FrameworkDetectionIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 1344701,
+        "total" : 1591887680
+      },
+      "totalNumberOfFiles" : 129,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 3531438,
+      "indexingSpeed" : {
+        "totalBytes" : 3531438,
+        "totalTime" : 1344701
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 818398,
+        "total" : 1591887680
+      },
+      "totalNumberOfFiles" : 29,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 82050,
+      "indexingSpeed" : {
+        "totalBytes" : 82050,
+        "totalTime" : 818398
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "Module 'Mi Wether App223'",
+      "numberOfScannedFiles" : 162911,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 1950,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 396848792,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 47785632,
+      "timeIndexingWithoutContent" : 240508
+    }, {
+      "providerName" : "Indexable set contributor 'Kotlin Script dependencies' (project)",
+      "numberOfScannedFiles" : 19517,
+      "numberOfSkippedFiles" : 32,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 69224369,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "JDK Android Studio default JDK",
+      "numberOfScannedFiles" : 14559,
+      "numberOfSkippedFiles" : 31,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 42124124,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@e12a60' (non-project)",
+      "numberOfScannedFiles" : 214,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 413708,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (non-project)",
+      "numberOfScannedFiles" : 1,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 5701,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@e12a60' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Indexable set contributor 'Kotlin Script dependencies' (non-project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'Mi Wether App223'",
+      "totalNumberOfIndexedFiles" : 1950,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : 1226913699,
+      "contentLoadingTime" : 157548972,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ]
+    } ]
+  }
+}
